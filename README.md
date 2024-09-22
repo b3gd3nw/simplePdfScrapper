@@ -29,4 +29,4 @@ Scrapper. The results of the work will be saved in the folder `results/`.
 
 1. Make sure Docker is installed and running globally.
 2. Create .env file such as env-example.  
-3. If docker is installed, build and run the image - `docker-compose up`.
+3. If docker is installed, build and run the image - `docker-compose up` from project directory `simplepdfscrapper`.
