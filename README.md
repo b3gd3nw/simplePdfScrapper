@@ -14,12 +14,12 @@ Scrapper. The results of the work will be saved in the folder `results/`.
 1. Go to directory `simplepdfscrapper`.
 2. Install dependencies:
  
-    *   npm install
+    npm install
 
 3. Create .env file such as env-example.  
 4. Launch:
 
-    *   npm run start
+    npm run start
 
 ## Docker launch ( one command launch )
 
